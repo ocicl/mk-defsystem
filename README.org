@@ -1,0 +1,10 @@
+* mk-defsystem
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/mantoniotti/mk-defsystem.git   |
+| commit  |   |
+| systems | mk-defsystem |
+|---------+-------------------------------------------|
+
