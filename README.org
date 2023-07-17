@@ -1,10 +1,9 @@
 * mk-defsystem
 
+An updated version of the first widely available (and quite portable) DEFSYSTEM for Common Lisp
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/mantoniotti/mk-defsystem.git   |
-| commit  |   |
-| systems | mk-defsystem |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/mantoniotti/mk-defsystem.git |
+| commit  | ceae4e8f                                                        |
+| systems | mk-defsystem                                                    |
+|---------+-----------------------------------------------------------------|
