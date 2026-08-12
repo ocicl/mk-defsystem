@@ -5,7 +5,7 @@ An updated version of the first widely available (and quite portable) DEFSYSTEM 
 
 |---------+-----------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/mantoniotti/mk-defsystem.git |
-| commit  | f5331e0                                                         |
+| commit  | e19d2e3                                                         |
 | systems | mk-defsystem                                                    |
 |---------+-----------------------------------------------------------------|
  
